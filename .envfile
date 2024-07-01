@@ -1,0 +1,5 @@
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_USER = 'Shanmukha Sai'
+EMAIL_PASS = '123456'
+EMAIL_FROM = 'shanmukhsai1609@gmail.com'
